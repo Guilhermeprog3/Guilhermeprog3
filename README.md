@@ -5,7 +5,7 @@ I'm taking the technology course in internet systems at the Federal Institute of
 I'm a Full-Stack Developer
 
 <div>
-  <a href="https://github.com/LPeter-nm">
+  <a href="https://github.com/Guilhermeprog3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPeter-nm&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPeter-nm&layout=donut&theme=dark"/>
 </div>
