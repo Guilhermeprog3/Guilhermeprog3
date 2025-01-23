@@ -6,6 +6,7 @@ I'm a Full-Stack Developer
 <div>
   <a href="https://github.com/Guilhermeprog3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeprog3&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeprog3-nm&layout=donut&theme=dark"/>
 </div>
 
 ## CONTACT
