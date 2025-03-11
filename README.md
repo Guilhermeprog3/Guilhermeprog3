@@ -1,4 +1,4 @@
-# Hi, I’m Guilherme Rios 👋
+# Hi, I’m Guilherme Silva Rios 👋
 
 🎓 **Technology in Internet Systems** student at the Federal Institute of Maranhão, Timon campus.  
 💻 **Full-Stack Developer** with a passion for building innovative and efficient web solutions.  
