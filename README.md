@@ -1,10 +1,23 @@
-# Hi, I’m Guilherme Silva Rios 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA800&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Guilherme+Silva+Rios+%F0%9F%91%8B;Full-Stack+Developer;Web%2C+Desktop+%26+Mobile+Developer" alt="Typing SVG" />
+  
+  <p>🎓 <b>Technology in Internet Systems</b> student at the Federal Institute of Maranhão, Timon campus</p>
+  <p>💻 Passionate about building innovative and efficient solutions across all platforms</p>
 
-🎓 **Technology in Internet Systems** student at the Federal Institute of Maranhão, Timon campus.  
-💻 **Full-Stack Developer** with a passion for building innovative and efficient web solutions.  
-🌐 **Web, Desktop, and Mobile Developer** focused on creating seamless user experiences across all platforms.
+  <a href="https://guilhermeriosdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FFA800?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/guilherme_rios_03/">
+    <img src="https://img.shields.io/badge/Instagram-FFA800?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Guilhermeprog3">
+    <img src="https://img.shields.io/badge/GitHub-FFA800?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 ## 📊 GitHub Stats
 
