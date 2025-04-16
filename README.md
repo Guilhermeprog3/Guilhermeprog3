@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA800&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Guilherme+Silva+Rios+%F0%9F%91%8B;Full-Stack+Developer;Web%2C+Desktop+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA800&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Guilherme+Silva+Rios+%F0%9F%91%8B;Full-Stack+Developer;Web%2C+%26+Mobile+Developer" alt="Typing SVG" />
   
   <p>🎓 <b>Technology in Internet Systems</b> student at the Federal Institute of Maranhão, Timon campus</p>
   <p>💻 Passionate about building innovative and efficient solutions across all platforms</p>
