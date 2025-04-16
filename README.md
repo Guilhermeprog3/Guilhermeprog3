@@ -22,17 +22,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Guilhermeprog3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeprog3&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeprog3&layout=donut&border_color=000000&title_color=FFA800&icon_color=AD7200&text_color=FFA800&bg_color=000000" alt="guilhermeprog3" height="180em" />
-  </a>
-</div>
-
----
-
 ## 🛠️ Skills
 
 ### Frontend
@@ -84,6 +73,17 @@
 ## 🎨 Design
 
 ![](https://img.shields.io/badge/Figma-A35CFB?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Guilhermeprog3">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeprog3&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeprog3&layout=donut&border_color=000000&title_color=FFA800&icon_color=AD7200&text_color=FFA800&bg_color=000000" alt="guilhermeprog3" height="180em" />
+  </a>
+</div>
 
 ---
 
