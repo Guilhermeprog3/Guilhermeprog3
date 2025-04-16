@@ -10,9 +10,12 @@
   <a href="https://www.instagram.com/guilherme_rios_03/">
     <img src="https://img.shields.io/badge/Instagram-FFA800?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
-  <a href="https://github.com/Guilhermeprog3">
-    <img src="https://img.shields.io/badge/GitHub-FFA800?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/guilherme-rios-dev/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-FFA800?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    </a>
+    <a href="mailto:guilhermeriosprog@gmail.com">
+      <img src="https://img.shields.io/badge/Email-FFA800?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    </a>
 </div>
 
 <div align="center">
